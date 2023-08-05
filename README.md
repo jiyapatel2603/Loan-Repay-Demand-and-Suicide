@@ -1,6 +1,6 @@
 # Loan-Repay-Demand-and-Suicide
 
-Dataset consist: Behavior patterns of customers who tend to defualt their loan repayment.
-                 Sucide rates in each state of India.
+The dataset consists of 1. Behavior patterns of customers who tend to default on their loan repayment.
+                        2. Suicide rates in each state of India.
 
-The main goal is to find if loan repay demand is an abetment to suicide.
+The main goal is to find if loan repayment demand is an abetment to suicide.
